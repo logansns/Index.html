@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Logan Wiley" />
+    <meta name="description" content="An informational webpage for the success and life of Lebron James" />
+    <meta name="keywords" content="Lebron James, NBA, Lakers, Miami Heat, Basketball, Cavaliers" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All About Lebron James</title>
+</head>
+<body>
+    <!-- Profile page for LeBron James -->
+
+    <header>
+        <h1>LeBron James</h1>
+        <p>Professional basketball player known for his exceptional talent, leadership, and philanthropy.</p>
+    </header>
+
+    <main>
+        <section>
+            <h1>Background and Life of Lebron James</h1>
+            <p>Professional Basketball Player, Lebron James, was born in Akron, Ohio in 1984. Today, he is known for his successful talents, leadership, and work ethic on and off the court.</p>
+        </section>
+
+        <section>
+            <h2>Early Life</h2>
+            <p>Lebron was raised by his mother, Gloria James. She noticed from a young age his exceptional talent and the passion that he had for the game. In 2003, he was the #1 overall pick in the NBA draft.</p>
+        </section>
+
+        <section>
+            <h2>Accomplishments</h2>
+            <p>LeBron James has played for the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers. He has won 4 NBA championships (2012, 2013, 2016, 2020), 4 NBA Finals MVP Awards, and has been selected to the All-Star Game 20 times. Off the court, LeBron is a philanthropist, businessman, and activist, founding the LeBron James Family Foundation and opening the “I PROMISE” School in Akron.</p>
+            <p>Learn more on his <a href="https://www.nba.com/player/2544/lebron_james" target="_blank" rel="noopener noreferrer">NBA profile</a> and the <a href="https://www.lebronjamesfamilyfoundation.org/" target="_blank" rel="noopener noreferrer">LeBron James Family Foundation website</a>.</p>
+        </section>
+
+        <section>
+            <h2>Overall Career Achievements</h2>
+            <ol>
+                <li>NBA Champion</li>
+                <li>NBA Finals MVP</li>
+                <li>2x Olympic Gold Medalist</li>
+            </ol>
+        </section>
+
+        <section>
+            <h3>Media Sightings</h3>
+            <ul>
+                <li>Comparison to Michael Jordan</li>
+                <li>Space Jam</li>
+                <li>The Decision</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Gallery</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/LeBron_James_Lakers.jpg" alt="LeBron James with Lakers" width="300" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LeBron_James_Cavs.jpg" alt="LeBron James with Cavaliers" width="300" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/LeBron_James_Miami_Heat.jpg" alt="LeBron James with Heat" width="300" />
+        </section>
+    </main>
+
+    <footer>
+        <p>Logan Wiley is a 19 year-old student athlete at the University of Miami. She has played volleyball since she was 10 and will continue to play at the D1 level. She is from Atlanta, Georgia.</p>
+    </footer>
+</body>
+</html>
